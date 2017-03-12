@@ -1,0 +1,2 @@
+BugBot found: c_avc: Assigning variables in a conditional statement rather than comparing them
+For more information visit www.BugBot.org
